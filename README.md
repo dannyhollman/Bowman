@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/bnQY9Iq.png" alt="Game Screenshot">
+<img src="https://i.imgur.com/bnQY9Iq.png" alt="Game Screenshot" align="middle">
 
 # Bowman
  <ul>
