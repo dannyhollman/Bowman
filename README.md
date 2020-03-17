@@ -1,4 +1,4 @@
 # Bowman
  <ul>
-  <li><a href="/about">About</a></li>
+  <li><a href="/Bowman/about">About</a></li>
 </ul> 
