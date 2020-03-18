@@ -1,5 +1,3 @@
-
-
 <h1>Bowman</h1>
 <i>Fast paced, high mobility, multiplayer first person bow game</i>
 <ul style="  list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;">
@@ -11,8 +9,21 @@
 
 <h2>Features</h2>
 
+<br>
+
 <h3>Online Multiplayer</h3>
+Free for all gamemode - First to 10 eliminations wins!
+Host your own lobby - Players can host a lobby for their friends to join
+
+<br>
 
 <h3>High Mobility</h3>
+Wall Climbing
+Wall Running
+Double Jump
 
-<h3>Temp</h3>
+<br>
+
+<h3>Bow and Arrow</h3>
+Projectiles - Lead shots and compensate for arrow drop
+Power - The longer you pull back the faster your arrow goes
