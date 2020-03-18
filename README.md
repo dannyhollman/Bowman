@@ -7,10 +7,10 @@
 <br>
 <img src="https://i.imgur.com/bnQY9Iq.png" alt="Game Screenshot" align="middle">
 
-<h2>Features</h2>
+<h2 align="middle">Features</h2>
 
-<h3>Online Multiplayer</h3>
+<h3 align="middle">Online Multiplayer</h3>
 
-<h3>High Mobility</h3>
+<h3 align="middle">High Mobility</h3>
 
-<h3>Temp</h3>
+<h3 align="middle">Temp</h3>
