@@ -1,8 +1,8 @@
 <h1>Bowman</h1>
 <i>Fast paced, high mobility, multiplayer first person bow game</i>
 <ul style="  list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;">
-  <li style="float: left;"><a style="display:block;color:white;text-align:center;padding:25px;" href="/Bowman">Home</a></li>
-  <li style="float: left;"><a style="display:block;color:white;text-align:center;padding:25px;" href="/Bowman/about">About</a></li>
+  <li style="float: left;"><a style="display:block;color:white;text-align:center;padding: 14px 16px;" href="/Bowman">Home</a></li>
+  <li style="float: left;"><a style="display:block;color:white;text-align:center;padding: 14px 16px;" href="/Bowman/about">About</a></li>
 </ul>
 <br>
 <img src="https://i.imgur.com/bnQY9Iq.png" alt="Game Screenshot" align="middle">
