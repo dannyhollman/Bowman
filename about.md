@@ -1,6 +1,4 @@
-<style>
-li {display: inline;}
-</style>
+
 # Bowman
 <i>Fast paced, high mobility, multiplayer first person bow game</i>
 <ul>
