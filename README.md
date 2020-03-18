@@ -8,22 +8,20 @@
 <img src="https://i.imgur.com/bnQY9Iq.png" alt="Game Screenshot" align="middle">
 
 <h2>Features</h2>
-
 <br>
-
 <h3>Online Multiplayer</h3>
 Free for all gamemode - First to 10 eliminations wins!
-Host your own lobby - Players can host a lobby for their friends to join
-
 <br>
-
+Host your own lobby - Players can host a lobby for their friends to join
+<br>
 <h3>High Mobility</h3>
 Wall Climbing
-Wall Running
-Double Jump
-
 <br>
-
+Wall Running
+<br>
+Double Jump
+<br>
 <h3>Bow and Arrow</h3>
 Projectiles - Lead shots and compensate for arrow drop
+<br>
 Power - The longer you pull back the faster your arrow goes
