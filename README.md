@@ -1,9 +1,11 @@
 # Bowman
 <i>Fast paced, high mobility, multiplayer first person bow game</i>
-<ul style="list-style-type:none;margin:0;padding:0;overflow: hidden;background-color: #333;">
-  <li style="float: left;"><a style="display:block;color:white;text-align:center;padding: 14px 16px;text-decoration:none;" href="/Bowman">Home</a></li>
-  <li style="float: left;"><a style="display:block;color:white;text-align:center;padding: 14px 16px;text-decoration:none;" href="/Bowman/about">About</a></li>
-</ul>
+<nav>
+  <ul style="list-style-type:none;margin:0;padding:0;overflow: hidden;background-color: #333;">
+    <li style="float: left;"><a style="display:block;color:white;text-align:center;padding: 14px 16px;text-decoration:none;" href="/Bowman">Home</a></li>
+    <li style="float: left;"><a style="display:block;color:white;text-align:center;padding: 14px 16px;text-decoration:none;" href="/Bowman/about">About</a></li>
+  </ul>
+</nav>
 <br>
 <img src="https://i.imgur.com/bnQY9Iq.png" alt="Game Screenshot" align="middle">
 
