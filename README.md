@@ -17,10 +17,13 @@ Host your own lobby - Players can host a lobby for their friends to join
 <br>
 <h3>High Mobility</h3>
 Wall Climbing
+<img src="https://media.giphy.com/media/kDZgt3qGlxpIqbE2wv/giphy.gif" alt="Wall Climbing">
 <br>
 Wall Running
+<img src="https://media.giphy.com/media/htqJ7MT7CprQkMLtzd/giphy.gif" alt="Wall Running">
 <br>
 Double Jump
+<img src="https://media.giphy.com/media/hrpawvGFY6s6jOFeCT/giphy.gif" alt="Double Jump">
 <br>
 <h3>Bow and Arrow</h3>
 Projectiles - Lead shots and compensate for arrow drop
