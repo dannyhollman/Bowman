@@ -15,6 +15,7 @@ Free for all gamemode - First to 10 eliminations wins!
 <br>
 Host your own lobby - Players can host a lobby for their friends to join
 <br>
+<img src="https://i.imgur.com/dnGoS9X.png" alt="Lobby">
 <h3>High Mobility</h3>
 Wall Climbing
 <img src="https://media.giphy.com/media/kDZgt3qGlxpIqbE2wv/giphy.gif" alt="Wall Climbing">
