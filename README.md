@@ -30,3 +30,4 @@ Double Jump
 Projectiles - Lead shots and compensate for arrow drop
 <br>
 Power - The longer you pull back the faster your arrow goes
+<img src="https://media.giphy.com/media/J4mXZB20m98a4fDEns/giphy.gif" alt="Shooting">
