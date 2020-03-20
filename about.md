@@ -5,7 +5,7 @@
   <li><a href="/Bowman">Home</a></li>
   <li><a href="/Bowman/about">About</a></li>
 </ul>
-
+<br>
 <h2>Story</h2>
 Our project was inspired by some of the most popular first person shooters. In our opinion, the games we most enjoy consist of fast paced movement and projectile based shooting mechanics. We decided to focus on these mechanics to craft an enjoyable player experience for gamers with the same taste.
 <br>
