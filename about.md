@@ -11,4 +11,5 @@ Our project was inspired by some of the most popular first person shooters. In o
 <br>
 <h2>Our Team</h2>
 Stephen Ranciato <a href="https://github.com/Sranciato">Github</a> <a href="https://www.linkedin.com/in/stephen-ranciato-48a660189">LinkdIn</a> <a href="https://twitter.com/SteveRancy">Twitter</a>
+<br>
 Danny Hollman <a href="https://github.com/dannyhollman">Github</a> <a href="https://www.linkedin.com/in/danny-hollman-609664189">LinkdIn</a> <a href="https://twitter.com/danny_hollman">Twitter</a>
